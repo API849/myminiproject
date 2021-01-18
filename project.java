@@ -22,6 +22,9 @@ public class Switch_Months {
 		  case 6:
 		    System.out.println("June");
 		    break;
+		  case 7:
+		    System.out.println("July");
+		    break;
 		  
 			default:
 				System.out.println("Enter Valid Number");
